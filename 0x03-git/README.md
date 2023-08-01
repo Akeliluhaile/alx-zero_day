@@ -11,4 +11,5 @@ readme1
  - git push 
  - git pull 
  - git branch 
- 
+ how to create new branch
+ and switch between branches 
